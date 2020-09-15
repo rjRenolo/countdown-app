@@ -7,7 +7,7 @@ body {
     font-family: 'Poppins', sans-serif;
     color: aliceblue;
     margin: 0;
-    background-image: linear-gradient(rgba(255, 208, 0, 0.212), rgba(0, 0, 0, 0)), url('/count-down-bg.jpg');
+    background-image: linear-gradient(rgba(255, 208, 0, 0.212), rgba(0, 0, 0, 0)), url('https://images.unsplash.com/flagged/photo-1554443883-83db889b4007?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80');
     background-size: cover;
     background-position: center center;
     min-height: 100vh;
